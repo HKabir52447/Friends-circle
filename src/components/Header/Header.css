@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    background-color: rgba(102, 102, 102, 0.082);
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.164);
+    padding: 0 20%;
+    margin: 0 auto;
+}
+.header .heading{
+    text-align: center;
+    padding: 10px 0;
+    font-weight: 600;
+    color: #033cf5;
+}
+.header .sub-heading{
+    text-align: center;
+    padding-bottom: 20px;
+    font-weight: 500;
+    color: #033cf5;
+}

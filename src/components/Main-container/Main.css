@@ -1,0 +1,17 @@
+.main-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    padding: 50px 0;
+}
+.friends{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 0 5%;
+}
+.add-friends h2, .add-friends h3{
+    color: #033cf5;
+    margin-bottom: 10px;
+}
+.total-cost, .friends-number{
+    color: #192a56;
+}
