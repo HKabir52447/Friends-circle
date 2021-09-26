@@ -1,6 +1,6 @@
 # Best Friend Circle website by using React App
 
-Visit this website [Best Firend Circle](https://github.com/facebook/create-react-app).
+Visit this website [Best Firend Circle](https://hk-himu-best-friends.netlify.app/).
 
 ## About this site
 
